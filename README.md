@@ -22,11 +22,11 @@ The extraction process step was done using Python and the PANDAS library utilizi
 
 ## Deliverable 2: Transform and Clean Data
 
-The transfor and clean step was also done using Python and the PANDAS library utilizing Jupyter Notebook.
+The transfer and clean step was also done using Python and the PANDAS library utilizing Jupyter Notebook.
 
 ## Deliverable 3: Create an ERD and a Table Schema and Load the Data
 
-The ERD was created using QuickDBD, and then a Table schema was created from the export that was created. The final step was to load the data into PGadmin using postgreSQL.
+The ERD was created using QuickDBD, and then a Table schema was created from the export. The final step was to load the data into PGadmin using postgreSQL.
 
 ## Deliverable 4: SQL Analysis
 
